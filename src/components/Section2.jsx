@@ -4,7 +4,7 @@ import holiday from "../assets/holiday.svg";
 import Collection from "../assets/Collection.svg";
 export default function Section2() {
   return (
-    <div className="w-full py-20 px-41.25 flex gap-7.5 items-center justify-between ">
+    <div className="w-full overflow-x-auto` py-20 px-41.25 flex gap-7.5 items-center justify-between ">
       <div className="w-63.75  flex flex-col gap-2">
         <img className=" w-full" src={TableWare} alt="photo" />
         <p className="font-semibold text-[18px] text-[#3A3845] uppercase text-center">

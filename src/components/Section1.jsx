@@ -21,8 +21,8 @@ export default function Section1() {
           <h1 className="text-2xl lg:text-4xl tracking-[3px] leading-10 font-classic w-61.25 h-20">
             BAT TRANG <br /> DINNER SET
           </h1>
-          <button className=" px-7 text-[14px] font-bold leading-5 bg-MainWhite text-[#826F66] py-3.75 ">
-            SHOP NOW{" "}
+          <button className="px-7 text-[14px] font-bold leading-5 bg-MainWhite text-[#826F66] py-3.75">
+            SHOP NOW
           </button>
         </div>
       </div>

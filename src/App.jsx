@@ -3,7 +3,6 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Cart from "./pages/Cart";
 import Regstir from "./pages/Regstir";
-import Footer from "./components/Footer";
 import Shop from "./pages/Shop";
 import MinLayuot from "./components/MinLayuot";
 
