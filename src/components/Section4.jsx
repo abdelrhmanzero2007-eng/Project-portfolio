@@ -3,7 +3,7 @@ import { products } from "../Store";
 export default function Section4() {
   return (
     <div className="flex flex-col gap-12 py-20 w-full items-center px-5 lg:px-41.25">
-      <h1 className="uppercase text-Main text-[24px] lg:text-[30px] font-classic font-bold w-fit tracking-wider border-b-2 border-transparent hover:border-Main transition-all">
+      <h1 className="uppercase text-Main text-[24px] lg:text-[30px] font-classic font-bold w-fit tracking-wider">
         Best sellers
       </h1>
 

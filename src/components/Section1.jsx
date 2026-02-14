@@ -5,7 +5,7 @@ export default function Section1() {
   return (
     <div
       style={{ backgroundImage: `url(${img})` }}
-      className="w-full h-[640px] px-41.25 bg-no-repeat bg-cover bg-center "
+      className="w-full h-160 px-41.25 bg-no-repeat bg-cover bg-center "
     >
       <div className="w-full md:w-105 h-full bg-[#826f66] items-center justify-center flex flex-col text-center gap-10.5">
         <img src={img2} alt="Image" />
