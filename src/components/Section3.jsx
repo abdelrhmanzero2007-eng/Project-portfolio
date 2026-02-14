@@ -5,8 +5,8 @@ export default function Section3() {
   return (
     <div className="w-full flex justify-center lg:px-41.25 px-5">
       <div className="container flex flex-col lg:flex-row items-center px-10">
-        <div className="w-full lg:w-1/2 flex justify-center items-center flex-col gap-7.25 py-10 lg:py-0">
-          <h1 className="uppercase font-classic font-bold text-[24px] lg:text-[28px] leading-[1.2] tracking-widest text-center text-Main max-w-112.5 lg:max-w-120">
+        <div className="w-full lg:w-1/2 bg-[#F7F6F5] h-full flex justify-center items-center flex-col gap-7.25 py-10 lg:py-0">
+          <h1 className=" uppercase font-classic font-bold text-[24px] lg:text-[28px] leading-[1.2] tracking-widest text-center text-Main max-w-112.5 lg:max-w-120">
             Up to 40% off our Christmas collection
           </h1>
           <p className="text-center text-gray-600 max-w-93.75">

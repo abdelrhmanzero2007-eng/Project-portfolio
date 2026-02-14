@@ -12,7 +12,7 @@ export default function NavBar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="relative w-full bg-white border-b ">
+    <nav className="relative w-full bg-white ">
       <div className="flex items-center text-Main justify-between py-4 px-8 lg:py-7 lg:px-41.25">
         <div
           className="block lg:hidden cursor-pointer"
